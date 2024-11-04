@@ -1,5 +1,5 @@
 
-# Exploratory-Data-Analysis
+# Diwali Sales-Data-Analysis
 
 Introduction
 --------------------------------------
